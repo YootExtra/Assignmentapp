@@ -1,5 +1,4 @@
 import React from 'react';
-  import AppNavigator from './AppNavigator';
   
 
 import {createAppContainer} from 'react-navigation';
@@ -18,47 +17,3 @@ const MainNavigator = createStackNavigator({
 const App = createAppContainer(MainNavigator);
 
 export default App;
-// const App = createAppContainer(MainNavigator);
-
-//   export default class App extends React.Component {
-//     constructor(props) {
-//       super(props)
-//       this.state = {
-//         possibleFriends: [
-//           'Allie',
-//           'Gator',
-//           'Lizzie',
-//         ],
-//         currentFriends: [],
-//       }
-//     }
-
-//     addFriend = (index) => {
-//       const {
-//         currentFriends,
-//         possibleFriends,
-//       } = this.state
-
-//       const addedFriend = possibleFriends.splice(index, 1)
-
-//       currentFriends.push(addedFriend)
-
-//       this.setState({
-//         currentFriends,
-//         possibleFriends,
-//       })
-//     }
-
-//     render() {
-//       return (<AppNavigator
-//         screenProps={ {
-//           currentFriends: this.state.currentFriends,
-//           possibleFriends: this.state.possibleFriends,
-//           addFriend: this.addFriend,
-//         } }
-//       />
-//       );
-//     }
-//   }
-
-
