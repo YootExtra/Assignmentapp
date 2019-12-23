@@ -12,7 +12,8 @@
   } from 'react-native';
 
   import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
-  import { SearchBar,ListItem } from '../node_modules/react-native-elements';
+  import { SearchBar,ListItem, Button } from '../node_modules/react-native-elements';
+import { Config } from './config';
 
 export default class SearchResult extends React.Component {
 
@@ -28,6 +29,7 @@ export default class SearchResult extends React.Component {
             txtsearch: "",
             listRestaurants:[]
         };
+        this.onSearch();
     
         const screenHeight = Math.round(Dimensions.get("window").height);
         if (Platform.OS == "ios") {
@@ -38,12 +40,11 @@ export default class SearchResult extends React.Component {
             y: screenHeight - 110
           });
         }
-        this.onSearch();
       }
 
 
       onSearch() {
-        fetch('https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=13.8030762,100.5370008&radius=100&type=restaurant&key=AIzaSyBy_TA6McsusI8rdYjkp2CnuKmbMWyLG3E')
+        fetch(webGGMain+'?location='+DataLoclatlog+'&radius=100&type=restaurant&key='+keyGG)
         .then((response) => response.json()).then((responseJson) => {
         
           let getLett = this.state.listRestaurants;
@@ -51,15 +52,16 @@ export default class SearchResult extends React.Component {
             const element = responseJson.results[index];
             getLett.push(element)
           }
-          
             this.setState({
               listRestaurants:getLett
             });
+
+            
         })
         .catch((error) => {
               alert(error);
         });
-      };
+      }
 
 
 
@@ -85,16 +87,21 @@ export default class SearchResult extends React.Component {
 
             <View style={styles.container}>
             
-              <View style={styles.welcomeContainer}>
-                
-              </View>
-      
-              <View style={styles.getStartedContainer}>
-                  <Text style={styles.getStartedText}>
-                  finding all restaurants in Bangsue district area (an area in Bangkok)                  
-                  </Text>
-              </View>
+              <Button
+                  icon={{
+                    name: "refresh",
+                    size: 25,
+                    color: "white"
+                  }}
+                  buttonStyle={styles.cssBtnNexV}
+                  title="finding all restaurants in Bangsue"
+                  onPress={() => {
+                    console.log("geting data");
+                    this.onSearch();
+                  }}
+                />
               <View style={styles.ccsBox}>
+
                     <FlatList
                         keyExtractor={(item, index) => index.toString()}
                         data={this.state.listRestaurants}
@@ -203,33 +210,12 @@ const styles = StyleSheet.create({
       width: '100%',
       height: '75%',
       maxHeight: '75%',
-      marginTop: 20,
-      paddingTop: 10,
       paddingBottom: 10,
     },
     cssBtnNexV : {
       width: '100%',
       height: 50,
       marginBottom: 10,
-      marginTop: 5,
     }
   });
   
-/*
-
-  geometry: {location: {…}, viewport: {…}}
-icon: "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
-id: "617c62ead042d5cb48edcf3adc748f27d0313e40"
-name: "The Deli House"
-opening_hours: {open_now: true}
-photos: [{…}]
-place_id: "ChIJc6zFPXOc4jARh9dACrAddgM"
-plus_code: {compound_code: "RG3P+8W Bangkok, Thailand", global_code: "7P52RG3P+8W"}
-rating: 4.1
-reference: "ChIJc6zFPXOc4jARh9dACrAddgM"
-scope: "GOOGLE"
-types: (6) ["restaurant", "bakery", "food", "point_of_interest", "store", "establishment"]
-user_ratings_total: 32
-vicinity: "1 ถนนปูนซิเมนต์ไทย, บางซื่อ, Bang Sue"
-
-*/
