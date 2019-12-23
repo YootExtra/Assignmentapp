@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-google-places] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-vector-icons] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f912505bc2e7878dfdcde10d96c2bc81/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/fde240ad6879c5c89ca5ced2a1d03036/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f86ef35995c0ec9c22af4c233968babd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/de6d06a00174381bbd8689a943511304/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17201c593a0d06b63a4ccb361959bfa1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2fe50a384b5379fbb44658abb3399ed1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/4d5cea68dfa081b617e3c406c4b830cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/6c2be083dd5c42e3577955acdfac85a9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1aeb20248180ad23b0758c050a720307/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a9686ad04244699c4fd2ff44207ff1f7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f38089a2950e7f04c4187e5a174c859e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/34bc8ae545f571d9029526657f27bf2f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/d92dc416f8b97f882d8ba0d94c515a05/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3d35f5b0690bbc96d957366132105a41/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/745d03dd333175980b118df7347dd36b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/343566eeea2e9605467a0a6a31ee808f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ee244038797d86c07bd7f1d68a07d372/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/cdf94a8dd62a97ab80e194273879db9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1359a4853097d673387b16030b8fc9cf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3e1549a42c9dac3e32b36e13f82e3b72/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2317dc55c880730145c6d4efe8672ad8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/eb4d79e2749c126691eb5b5462cea076/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/d7da475fc6723c4b2aadb511e113c9a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a9ddf81460e592fa853ede626d1c338b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/63e992c3e6187443021e161462091ace/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c0e23d92b04333c897b7f2bfca501657/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c03b38e68a3de09da7a4395d184416e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/14575555dde1f1399a527ded11e86af4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/11712c63d98292439a9493a1c54015b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/896237946de535f16db221f95e05a359/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/daf43481ac579261e71c592066eb9988/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c8bd3c230cab7c5659df1ff91e96aaa8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17de6812d3ea579db2198e731958753e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/867da11bda490c1744af648a3ded73fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ae7e2567117bf0d687bfe41334b48f01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3688c67eadf2ba99a42f43c6c8555988/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c676f76730b7d58b19015dc02d34b296/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/10f638510dd91b5ee884653375173d54/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/30b96b2781b056134c74aaaf8f4e0fdd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ecbb30ec5b8c7d602e2656ba6bc21551/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/063918cad55d95ca28abfc44a4a04922/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/03186d9ab3005d398f1c7fa4732af0db/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17c41d6a8fade80ead10b321ef112327/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/7c4d5bc4b68ef84a915c1f55499cdc0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9188a10f9558682fca678a4bb67d59e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/aa791d70068bbaa1dca036f8cc0c895b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/b2d85767219d0e57c58a11121248546f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a4980efe306cdf3996e4422951ac3e08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/b5d46f9ef9fe94cfc5c969cf8265cfa4/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-google-places] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-google-places] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-12:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f912505bc2e7878dfdcde10d96c2bc81/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f912505bc2e7878dfdcde10d96c2bc81/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/de6d06a00174381bbd8689a943511304/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/de6d06a00174381bbd8689a943511304/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17201c593a0d06b63a4ccb361959bfa1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17201c593a0d06b63a4ccb361959bfa1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2fe50a384b5379fbb44658abb3399ed1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2fe50a384b5379fbb44658abb3399ed1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/4d5cea68dfa081b617e3c406c4b830cc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/4d5cea68dfa081b617e3c406c4b830cc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/6c2be083dd5c42e3577955acdfac85a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/6c2be083dd5c42e3577955acdfac85a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ee244038797d86c07bd7f1d68a07d372/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ee244038797d86c07bd7f1d68a07d372/AndroidManifest.xml:11:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1359a4853097d673387b16030b8fc9cf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1359a4853097d673387b16030b8fc9cf/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3e1549a42c9dac3e32b36e13f82e3b72/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3e1549a42c9dac3e32b36e13f82e3b72/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c676f76730b7d58b19015dc02d34b296/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c676f76730b7d58b19015dc02d34b296/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/10f638510dd91b5ee884653375173d54/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/10f638510dd91b5ee884653375173d54/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c676f76730b7d58b19015dc02d34b296/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [:react-native-google-places] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.projectyoot.MainActivity
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-google-places] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-places] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-google-places/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f912505bc2e7878dfdcde10d96c2bc81/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f912505bc2e7878dfdcde10d96c2bc81/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/fde240ad6879c5c89ca5ced2a1d03036/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/fde240ad6879c5c89ca5ced2a1d03036/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f86ef35995c0ec9c22af4c233968babd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f86ef35995c0ec9c22af4c233968babd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/de6d06a00174381bbd8689a943511304/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/de6d06a00174381bbd8689a943511304/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17201c593a0d06b63a4ccb361959bfa1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17201c593a0d06b63a4ccb361959bfa1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2fe50a384b5379fbb44658abb3399ed1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2fe50a384b5379fbb44658abb3399ed1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/4d5cea68dfa081b617e3c406c4b830cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/4d5cea68dfa081b617e3c406c4b830cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/6c2be083dd5c42e3577955acdfac85a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/6c2be083dd5c42e3577955acdfac85a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1aeb20248180ad23b0758c050a720307/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1aeb20248180ad23b0758c050a720307/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a9686ad04244699c4fd2ff44207ff1f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a9686ad04244699c4fd2ff44207ff1f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f38089a2950e7f04c4187e5a174c859e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/f38089a2950e7f04c4187e5a174c859e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/34bc8ae545f571d9029526657f27bf2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/34bc8ae545f571d9029526657f27bf2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/d92dc416f8b97f882d8ba0d94c515a05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/d92dc416f8b97f882d8ba0d94c515a05/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3d35f5b0690bbc96d957366132105a41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3d35f5b0690bbc96d957366132105a41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/745d03dd333175980b118df7347dd36b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/745d03dd333175980b118df7347dd36b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/343566eeea2e9605467a0a6a31ee808f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/343566eeea2e9605467a0a6a31ee808f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ee244038797d86c07bd7f1d68a07d372/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ee244038797d86c07bd7f1d68a07d372/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/cdf94a8dd62a97ab80e194273879db9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/cdf94a8dd62a97ab80e194273879db9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1359a4853097d673387b16030b8fc9cf/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/1359a4853097d673387b16030b8fc9cf/AndroidManifest.xml:7:5-43
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3e1549a42c9dac3e32b36e13f82e3b72/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3e1549a42c9dac3e32b36e13f82e3b72/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2317dc55c880730145c6d4efe8672ad8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/2317dc55c880730145c6d4efe8672ad8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/eb4d79e2749c126691eb5b5462cea076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/eb4d79e2749c126691eb5b5462cea076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/d7da475fc6723c4b2aadb511e113c9a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/d7da475fc6723c4b2aadb511e113c9a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a9ddf81460e592fa853ede626d1c338b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a9ddf81460e592fa853ede626d1c338b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/63e992c3e6187443021e161462091ace/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/63e992c3e6187443021e161462091ace/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c0e23d92b04333c897b7f2bfca501657/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c0e23d92b04333c897b7f2bfca501657/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c03b38e68a3de09da7a4395d184416e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c03b38e68a3de09da7a4395d184416e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/14575555dde1f1399a527ded11e86af4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/14575555dde1f1399a527ded11e86af4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/11712c63d98292439a9493a1c54015b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/11712c63d98292439a9493a1c54015b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/896237946de535f16db221f95e05a359/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/896237946de535f16db221f95e05a359/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/daf43481ac579261e71c592066eb9988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/daf43481ac579261e71c592066eb9988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c8bd3c230cab7c5659df1ff91e96aaa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c8bd3c230cab7c5659df1ff91e96aaa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17de6812d3ea579db2198e731958753e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17de6812d3ea579db2198e731958753e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/867da11bda490c1744af648a3ded73fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/867da11bda490c1744af648a3ded73fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ae7e2567117bf0d687bfe41334b48f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ae7e2567117bf0d687bfe41334b48f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3688c67eadf2ba99a42f43c6c8555988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/3688c67eadf2ba99a42f43c6c8555988/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c676f76730b7d58b19015dc02d34b296/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/c676f76730b7d58b19015dc02d34b296/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/10f638510dd91b5ee884653375173d54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/10f638510dd91b5ee884653375173d54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/30b96b2781b056134c74aaaf8f4e0fdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/30b96b2781b056134c74aaaf8f4e0fdd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ecbb30ec5b8c7d602e2656ba6bc21551/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ecbb30ec5b8c7d602e2656ba6bc21551/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/063918cad55d95ca28abfc44a4a04922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/063918cad55d95ca28abfc44a4a04922/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/03186d9ab3005d398f1c7fa4732af0db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/03186d9ab3005d398f1c7fa4732af0db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17c41d6a8fade80ead10b321ef112327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/17c41d6a8fade80ead10b321ef112327/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/7c4d5bc4b68ef84a915c1f55499cdc0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/7c4d5bc4b68ef84a915c1f55499cdc0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9188a10f9558682fca678a4bb67d59e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9188a10f9558682fca678a4bb67d59e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/aa791d70068bbaa1dca036f8cc0c895b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/aa791d70068bbaa1dca036f8cc0c895b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/b2d85767219d0e57c58a11121248546f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/b2d85767219d0e57c58a11121248546f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a4980efe306cdf3996e4422951ac3e08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a4980efe306cdf3996e4422951ac3e08/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/b5d46f9ef9fe94cfc5c969cf8265cfa4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/b5d46f9ef9fe94cfc5c969cf8265cfa4/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:20:13-62
+	android:hardwareAccelerated
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:22:13-71
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [com.google.android.libraries.places:places:1.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/ba580e6717ccb9fa2ce28165bd452ce6/AndroidManifest.xml:17:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/9f6e8a67f5920cbcd8690fbbc4577a36/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/e8e599a645967ea9cfdcd3226c2f218c/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/teerayootmusikarut/.gradle/caches/transforms-2/files-2.1/a81edc148d434b3ff30f6883aa26886e/AndroidManifest.xml:24:13-58

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>003D0866-BB6B-4B99-83D8-B4C0F5C931D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>003D0866-BB6B-4B99-83D8-B4C0F5C931D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>projectyoot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>projectyoot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace projectyoot with scheme projectyoot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598805320.07728696</real>
+			<key>timeStoppedRecording</key>
+			<real>598805320.83942199</real>
+			<key>title</key>
+			<string>Building workspace projectyoot with scheme projectyoot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>003D0866-BB6B-4B99-83D8-B4C0F5C931D7</string>
+		</dict>
+		<key>55AE3F68-B144-41D9-BB14-71112D11380A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55AE3F68-B144-41D9-BB14-71112D11380A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>projectyoot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>projectyoot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace projectyoot with scheme projectyoot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598805371.315593</real>
+			<key>timeStoppedRecording</key>
+			<real>598805372.06843996</real>
+			<key>title</key>
+			<string>Building workspace projectyoot with scheme projectyoot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>55AE3F68-B144-41D9-BB14-71112D11380A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

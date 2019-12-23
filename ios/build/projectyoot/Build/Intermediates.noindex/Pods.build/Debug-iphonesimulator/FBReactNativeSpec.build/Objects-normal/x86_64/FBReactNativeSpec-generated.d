@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec-generated.mm \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/Optional.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/Portability.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/CPortability.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/Traits.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/Utility.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/teerayootmusikarut/Downloads/AssignmentProject/projectyoot/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h
